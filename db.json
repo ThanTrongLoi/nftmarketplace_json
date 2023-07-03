@@ -1,0 +1,28 @@
+{
+    "trendings": [
+        {
+            "id": "2",
+            "urls": [
+                "images/trending1.png",
+                "images/trending1a.png",
+                "images/trending1b.png"
+            ]
+        },
+        {
+            "id": "2",
+            "urls": [
+                "images/trending2.png",
+                "images/trending2a.png",
+                "images/trending2b.png"
+            ]
+        },
+        {
+            "id": "3",
+            "urls": [
+                "images/trending3.png",
+                "images/trending3a.png",
+                "images/trending3b.png"
+            ]
+        }
+    ]
+}
