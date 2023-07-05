@@ -41,5 +41,162 @@
                 "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-54@2x.png"
             }
         }
+    ],
+    "artists": [
+        {
+            "id": 1723077585,
+            "username": "Jaydon Ekstrom Bothman",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-98@2x.png"
+        },
+        {
+            "id": 1933029628,
+            "username": "Ruben Carder",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-6@2x.png"
+        },
+        {
+            "id": 7216307192,
+            "username": "Alfredo Septimus",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-7@2x.png"
+        },
+        {
+            "id": 6577695719,
+            "username": "Davis Franci",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-8@2x.png"
+        },
+        {
+            "id": 3300045116,
+            "username": "Livia Rosser",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-9@2x.png"
+        },
+        {
+            "id": 8369514643,
+            "username": "Kianna Donin",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-16@2x.png"
+        },
+        {
+            "id": 4201933994,
+            "username": "Phillip Lipshutz",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-17@2x.png"
+        },
+        {
+            "id": 9159957880,
+            "username": "Maria Rosser",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-126@2x.png"
+        },
+        {
+            "id": 971994217,
+            "username": "Kianna Stanton",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-127@2x.png"
+        },
+        {
+            "id": 7271207801,
+            "username": "Angel Lubin",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-128@2x.png"
+        },
+        {
+            "id": 8087117135,
+            "username": "Allison Torff",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-129@2x.png"
+        },
+        {
+            "id": 3136446635,
+            "username": "Davis Workman",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-130@2x.png"
+        },
+        {
+            "id": 7389114858,
+            "username": "Lindsey Lipshutz",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-131@2x.png"
+        },
+        {
+            "id": 2474457543,
+            "username": "Randy Carder",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-132@2x.png"
+        },
+        {
+            "id": 3821059167,
+            "username": "Lydia Culhane",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-133@2x.png"
+        },
+        {
+            "id": 2923990708,
+            "username": "Rayna Bator",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-134@2x.png"
+        },
+        {
+            "id": 91216748,
+            "username": "Jocelyn Westervelt",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-135@2x.png"
+        },
+        {
+            "id": 6261651309,
+            "username": "Marilyn Torff",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-5@2x.png"
+        },
+        {
+            "id": 823009815,
+            "username": "Skylar Levin",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-128@2x.png"
+        },
+        {
+            "id": 8894085526,
+            "username": "Terry Dorwart",
+            "volumn": "12.4 ETH",
+            "sold": "602",
+            "avatar": "https://cdn.animaapp.com/projects/63aaf7e2426e9824f0350c11/releases/63aaf8f2426e9824f0350c13/img/avatar-placeholder-7@2x.png"
+        }
+    ],
+    "nfts" : [
+        {
+            "id": 1,
+            "title": "",
+            "image": "",
+            "price": "",
+            "highest": "",
+            "category": "",
+            "description": "The Orbitians is a collection of 10,000 unique NFTs on the Ethereum blockchain, There are all sorts of beings in the NFT Universe. The most advanced and friendly of the bunch are Orbitians. They live in a metal space machines, high up in the sky and only have one foot on Earth. These Orbitians are a peaceful race, but they have been at war with a group of invaders for many generations. The invaders are called Upside-Downs, because of their inverted bodies that live on the ground, yet do not know any other way to be. Upside-Downs believe that they will be able to win this war if they could only get an eye into Orbitian territory, so they've taken to make human beings their target.",
+            "created_at": "2021-12-04T10:29:48.295Z",
+            "created_by": "Jaydon Ekstrom Bothman",
+            "created_by_id": 1723077585
+
+        }
     ]
 }
